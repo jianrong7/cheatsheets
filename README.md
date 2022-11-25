@@ -1,7 +1,7 @@
 # NUS Cheatsheets
 
 A compilation of my notes and exam cheatsheets.
-They also contain a mini-review of the module
+They also contain a mini-review of the module.
 
 Feel free to use them and edit to your liking!
 
